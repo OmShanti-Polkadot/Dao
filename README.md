@@ -3,6 +3,7 @@
 ![img](./img/logo-removebg.png)
 In this project we are revolutionaling healthcare protection with decentralized insurance. 
 
+
     This project is built on top the example provided in the gear-tech  documentation. 
 
 <p align="center">
@@ -15,7 +16,7 @@ In this project we are revolutionaling healthcare protection with decentralized 
 🚴‍♂️ Run page:
 
     git clone https://github.com/OmShanti-Polkadot/Nft.gits
-    
+
 
  
 
